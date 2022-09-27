@@ -1,4 +1,13 @@
-### Hi there 👋
+### Good Day. Peace be unto you 👋
+- I am a aspirant Data Scientist.
+- I'm currently learning Python Programming, Statistics, Data Science and Machine Learning
+
+![python-logo](https://user-images.githubusercontent.com/108978683/192607326-cc71d806-16f8-452d-82f2-6bb89be203ce.png)
+
+![download](https://user-images.githubusercontent.com/108978683/192611090-a7ebbd20-6f7b-458d-a39c-50e65ac464a3.jpg) ![download](https://user-images.githubusercontent.com/108978683/192609681-34faa227-1d09-4cd6-9ae2-6f6d5b1873d7.png)
+
+
+
 
 <!--
 **FaraazArsath/FaraazArsath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
