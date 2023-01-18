@@ -3,7 +3,7 @@
   
   - Hi, I am Faraaz Arsath from Chennai, India. 
   - Passionate Data Scientist
-  - Currently pursuing IIT Certified Master Data Science program
+  - IITM Advance Professional Programming with Master data Science Program - GUVI Geek Networks,IITM Research Park
   - Working on Machine Learning Algorithm projects
   
   <p align="left"> 
