@@ -5,7 +5,7 @@
   - Passionate Data Scientist
   - IITM Advance Professional Programming with Master data Science Program - GUVI Geek Networks,IITM Research Park
   - Working on Machine Learning Algorithm projects
-  - [Click here to know about me]([https://www.google.com](https://faraazarsath.github.io/#))
+  - [Click here for my portfolio](https://faraazarsath.github.io/#)
   
   
   <p align="left"> 
