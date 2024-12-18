@@ -29,10 +29,5 @@ I'm **Faraaz Arsath**, a passionate **Data Scientist** and architect of data-dri
 💼 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**   
 ---
 
-🔭 **Currently working on**: Real-world ML projects that redefine problem-solving.  
-🌱 **Lifelong learner**: Expanding my knowledge in AI, NLP, and advanced analytics.  
-🚀 **Mission**: To push the boundaries of data science while empowering teams and organizations.  
-
----
 
 
