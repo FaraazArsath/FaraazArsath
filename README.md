@@ -1,61 +1,66 @@
-![header](https://capsule-render.vercel.app/api?color=timeGradient&height=250&type=waving&text=Good%20day%20👋,%20I'm%20Faraaz%20Arsath&fontSize=60&fontColor=060207&fontAlignY=38&desc=Data%20Science%20Professional&descAlignY=60&descAlign=50)
-
-# 🌟 About Me
-- 👋 Hi, I’m **Faraaz Arsath** from **Chennai, India**.  
-- 🎯 Passionate **Data Scientist** with expertise in **Machine Learning** and **Data Analytics**.  
-- 🎓 Completed **IITM Advanced Professional Programming and Master's in Data Science Program** through **GUVI Geek Networks, IITM Research Park**.  
-- 🚀 Currently working on **Machine Learning Algorithm Projects** to solve real-world problems.  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="100" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="80" height="50"/>
-  <img src="https://user-images.githubusercontent.com/108978683/199270835-17e06887-7071-4dc8-b7e1-5a40bda8e641.svg" alt="Matplotlib" width="100" height="50"/>
-  <img src="https://user-images.githubusercontent.com/108978683/199273158-387d07eb-c846-4b53-871c-9dbb457e87ab.svg" alt="Scikit-learn" width="80" height="50"/>
-  <img src="https://user-images.githubusercontent.com/108978683/199274547-4bca3d21-d63d-4670-87c6-2d8826c40002.png" alt="NLTK" width="70" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="50" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fc466b,100:3f5efb&height=300&section=header&text=Hi!%20I'm%20Faraaz%20Arsath%20🚀&fontColor=ffffff&fontSize=50&fontAlignY=60" alt="Header Banner">
 </p>
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaraazArsath&show_icons=true&theme=radical" alt="Faraaz's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraazArsath&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Machine+Learning+Enthusiast;Passionate+about+Solving+Real-World+Problems;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing Animation">
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 👨‍💻 About Me
+- 🌍 **From**: Chennai, India  
+- 💻 **Profession**: Data Scientist  
+- 🎓 **Education**: Advanced Programming & Data Science, GUVI | IITM Research Park  
+- 🔬 **Interests**: Machine Learning, Data Visualization, and Natural Language Processing  
+- 🛠️ **Currently Working On**: Machine Learning Algorithms & Real-World Applications  
 
-- 💼 [Portfolio](https://faraazarsath.github.io/#)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/faraazarsath/)  
+🌐 **[View My Portfolio](https://faraazarsath.github.io/#)**  
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=FaraazArsath.FaraazArsath)<br />
+## 🛠️ Skills & Tools
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
+### Programming & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/108978683/199270835-17e06887-7071-4dc8-b7e1-5a40bda8e641.svg" alt="Matplotlib" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/108978683/199273158-387d07eb-c846-4b53-871c-9dbb457e87ab.svg" alt="Scikit-learn" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/108978683/199274547-4bca3d21-d63d-4670-87c6-2d8826c40002.png" alt="NLTK" width="50" height="50" />
+</p>
 
-          
+### Databases & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+</p>
 
+---
 
-<!--
-**FaraazArsath/FaraazArsath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaraazArsath&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaraazArsath&theme=radical" alt="GitHub Streak" width="450" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraazArsath&layout=compact&theme=radical" alt="Top Languages" width="450" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://faraazarsath.github.io/#"><img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3f5efb,100:fc466b&height=150&section=footer" alt="Footer Banner">
+</p>
