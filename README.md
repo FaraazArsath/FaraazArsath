@@ -24,9 +24,15 @@ I'm **Faraaz Arsath**, a passionate **Data Scientist** and architect of data-dri
 
 ---
 ## 📬 Let's Connect!  
-🌐 **[Portfolio](https://faraazarsath.github.io/#)**  
-📫 **[Email Me](mailto:youremail@example.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**   
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/faraazarsath" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat&width=70" alt="LinkedIn" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&width=70" alt="Portfolio" />
+  </a>
+</div>
+ 
 ---
 
 
