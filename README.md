@@ -1,5 +1,5 @@
 # Hi there! 👋  I'm **Faraaz Arsath**
-Passionate **Data Scientist** and architect of data-driven solutions. Exploring the depths of AI, unraveling insights from the chaos of data. 🚀  
+Passionate **Data Scientist** and architect of data-driven solutions. Exploring the depths of AI, unraveling insights from the chaos of data. 
 
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/faraazarsath" target="_blank">
@@ -9,7 +9,6 @@ Passionate **Data Scientist** and architect of data-driven solutions. Exploring 
     <img src="https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&width=70" alt="Portfolio" />
   </a>
 </div>
-
 ---
 ## 🛠️ Technologies & Tools  
 <p align="center">
