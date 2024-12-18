@@ -1,32 +1,56 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!%20I'm%20Faraaz%20Arsath&fontSize=40&fontColor=ffffff&fontAlign=50)
-👋 **Hey there, I'm Faraaz Arsath!**  
-Architect of data-driven solutions. Exploring the depths of AI, unraveling insights from the chaos of data.
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-</div>
-
-
-With a strong focus on machine learning and data analysis, I thrive on crafting intelligent solutions and delivering impactful results. My passion lies in turning raw data into actionable insights, leveraging cutting-edge tools and algorithms.
-
-🔭 **Currently working on**: Real-world ML projects that redefine problem-solving.  
-🌱 **Lifelong learner**: Expanding my knowledge in AI, NLP, and advanced analytics.  
-🚀 **Mission**: To push the boundaries of data science while empowering teams and organizations.  
+# Hi there! 👋  
+I'm **Faraaz Arsath**, a passionate **Data Scientist** with a love for turning data into actionable insights and building impactful solutions. 🚀  
 
 ---
 
-🌐 **[Portfolio](https://faraazarsath.github.io/#)**  
-📫 **[Email Me](mailto:youremail@example.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**  
+## 🛠️ Technologies & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Matplotlib-ffdd54?logo=plotly&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>  
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+## 🌟 Highlights  
+- 🚀 Currently working as a **Data Analyst** in the **Project Management Unit Team**.  
+- 📊 Proficient in **SQL**, **Python**, **Snowflake**, and **Data Visualization**.  
+- 🎯 Experienced in **project management**, **business analysis**, and **data science**.  
+
+---
+
+## 📂 Featured Projects  
+- [**Poshan Tracker Integration**](https://github.com/your-repo-link): Developed a seamless integration of child data from PICME and TN-ICDS apps.  
+- [**Rights Project Dashboard**](https://github.com/your-repo-link): Created comprehensive dashboards for monitoring DAP rehabilitation activities.  
+- [**Machine Learning Models**](https://github.com/your-repo-link): Built ML models for predictive analysis and pattern recognition.  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Faraaz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Faraaz's Top Languages" />
+</p>  
+
+---
+
+## 📬 Let's Connect!  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>  
+
+---
+
+## 🌱 Fun Fact  
+I can write SQL queries faster than I make my coffee ☕.  
