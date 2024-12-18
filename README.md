@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!%20I'm%20Faraaz%20Arsath&fontSize=40&fontColor=ffffff&fontAlign=50)
-
 👋 **Hey there, I'm Faraaz Arsath!**  
 Architect of data-driven solutions. Exploring the depths of AI, unraveling insights from the chaos of data.
 
