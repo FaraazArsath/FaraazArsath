@@ -1,5 +1,6 @@
-# Hi there! 👋  I'm **Faraaz Arsath**
-Passionate **Data Scientist** and architect of data-driven solutions. Exploring the depths of AI, unraveling insights from the chaos of data. 
+# Hi there! 👋  
+I'm **Faraaz Arsath**  
+Passionate **Data Scientist** and architect of data-driven solutions. Exploring the depths of AI, unraveling insights from the chaos of data.
 
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/faraazarsath" target="_blank">
@@ -9,6 +10,7 @@ Passionate **Data Scientist** and architect of data-driven solutions. Exploring 
     <img src="https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&width=70" alt="Portfolio" />
   </a>
 </div>
+
 ---
 ## 🛠️ Technologies & Tools  
 <p align="center">
@@ -22,9 +24,9 @@ Passionate **Data Scientist** and architect of data-driven solutions. Exploring 
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Power_BI-FF8700?logo=powerbi&logoColor=white&style=for-the-badge" />
 </p>
  
 ---
-
 
 
