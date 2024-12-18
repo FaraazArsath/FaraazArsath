@@ -20,13 +20,16 @@ Currently working as a Data Analyst in a Project Management Unit team for a gove
 ---
 
 **CORE COMPETENCIES**<br/><br/>
-Research | Quantitative Analysis | Data Visualization | Problem Solving | Project Management | Public Speaking | Strategy Formulation | Mentoring
+Research | Quantitative Analysis | Data Visualization | Problem Solving | Project Management | Strategy Formulation 
 
 **Machine Learning:** <br/><br/>
 Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
 
 **Business Domain Expertise:**<br/><br/>
 Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value and Retention Analysis, Product Analytics, People Analytics
+
+**Healthcare Domain Expertise:**<br/><br/>
+Patient Management Systems, Healthcare Data Integration, Clinical Decision Support Systems, Predictive Analytics for Healthcare, Health System Optimization, Medical Imaging Analysis, Telemedicine Solutions, Population Health Management, Electronic Health Records (EHR), and Healthcare Workflow Automation.
   
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** <br/><br/>
 <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
