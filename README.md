@@ -1,25 +1,24 @@
 <a href="https://www.linkedin.com/in/faraazarsath/">
   <img align="left" alt="Neil's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
-<a href="faraazarsath@gmail.com">
-  <img align="left" alt="Neil's Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
 
 ---
-## <h2 align="left"> Hey! I'm Faraaz Arsath or as friends call me [**Faraaz**](https://www.linkedin.com/in/faraazarsath/) and welcome to my GitHub profile! 👋🏻
+## <h2 align="left"> Hey! I'm Faraaz Arsath and welcome to my GitHub profile! 👋🏻
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-I'm a storyteller at heart and seasoned research & analytics professional who loves solving problems and telling stories with data. I have aided organizations adopt data-driven decision-making solutions to improve businesses. One of my major quests has been to leverage data to find actionable insights and thus connect dollars to the business outcomes. I call myself a **Data Evangelist** as I believe in empowering every individual with Data-Literacy, thus I have played the role of a mentor as well.
+I'm a passionate Data Scientist and experienced project manager who thrives on driving innovation and delivering impactful solutions through technology. I specialize in bridging the gap between business needs and technical execution, ensuring seamless integration of processes and systems. My focus is on creating user-centric solutions that enhance productivity, foster collaboration, and streamline workflows.
 
-🙂 A little about my personality: I am the type of person who will ask **“What can I do to help and improve?”** when presented with a problem and will pitch in whenever needed to find out-of-the-box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplifting everyone around me.
+I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems. As a problem solver at heart, I constantly seek ways to optimize operations and improve outcomes through efficient, scalable, and sustainable solutions.
 
-😎 Keeping data science aside, I love to sketch in my free time.
-  
+🙂 In my downtime, I enjoy exploring new technologies, staying updated on industry trends, and brainstorming creative approaches to enhance project efficiency. I also have a passion for design, and in my spare time, I enjoy working on graphic and UI/UX designs to bring ideas to life visually.
+
+👨‍💻 Outside of my professional pursuits, I am an advocate for continuous learning and development, constantly striving to expand my skill set and contribute to the tech community through knowledge-sharing and mentorship.
+
 ---
 
 **CORE COMPETENCIES**<br/><br/>
-Research | Quantitative Analysis | Data Visualization | Problem Solving | Product Management | Public Speaking | Strategy Formulation | Mentoring
+Research | Quantitative Analysis | Data Visualization | Problem Solving | Project Management | Public Speaking | Strategy Formulation | Mentoring
 
 **Machine Learning:** <br/><br/>
 Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
@@ -40,7 +39,3 @@ Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value an
 <img src="https://img.shields.io/badge/Power_BI-971901?style=for-the-badge&logo=powerbi&logoColor=white">
 
 ---
-
-## Metrics 📈
-
-![Metrics](https://metrics.lecoq.io/ShantanilBagchi?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FToronto) 
