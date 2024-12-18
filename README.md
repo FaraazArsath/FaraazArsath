@@ -14,6 +14,7 @@ I'm **Faraaz Arsath**, a passionate **Data Scientist** with a love for turning d
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge" />
 </p>  
 
 ---
@@ -22,13 +23,6 @@ I'm **Faraaz Arsath**, a passionate **Data Scientist** with a love for turning d
 - 🚀 Currently working as a **Data Analyst** in the **Project Management Unit Team**.  
 - 📊 Proficient in **SQL**, **Python**, **Snowflake**, and **Data Visualization**.  
 - 🎯 Experienced in **project management**, **business analysis**, and **data science**.  
-
----
-
-## 📂 Featured Projects  
-- [**Poshan Tracker Integration**](https://github.com/your-repo-link): Developed a seamless integration of child data from PICME and TN-ICDS apps.  
-- [**Rights Project Dashboard**](https://github.com/your-repo-link): Created comprehensive dashboards for monitoring DAP rehabilitation activities.  
-- [**Machine Learning Models**](https://github.com/your-repo-link): Built ML models for predictive analysis and pattern recognition.  
 
 ---
 
