@@ -6,8 +6,6 @@
 - 🎓 Completed **IITM Advanced Professional Programming and Master's in Data Science Program** through **GUVI Geek Networks, IITM Research Park**.  
 - 🚀 Currently working on **Machine Learning Algorithm Projects** to solve real-world problems.  
 
-🔗 **[Check out my Portfolio](https://faraazarsath.github.io/#)**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -36,8 +34,7 @@
 ## 🌐 Connect with Me
 
 - 💼 [Portfolio](https://faraazarsath.github.io/#)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/faraazarsath/)  
 
 ---
 
