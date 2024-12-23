@@ -4,7 +4,7 @@
 <li>📊Transition to Data Science in 2022</li>
 <li>🙂Enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems</li>
 <li>👨‍💻Keep myself updated in AI by blogging, attending industry meetups, and participating in various events</li>
-<li>🌍Actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science🚀💡</li>
+<li>🌍Actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science</li>
 
 ---
 
