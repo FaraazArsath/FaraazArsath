@@ -5,7 +5,7 @@
 - 🌍 Active contributor to Omdena community projects and real-world AI challenges  
 - 👨‍💻 Lifelong learner, keeping updated with AI and Data Science trends through blogging and industry events
 
-[![My Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge)](https://faraazarsath.github.io/)
+[![My Portfolio](https://img.shields.io/badge/My Portfolio-4B0082?style=for-the-badge)](https://faraazarsath.github.io/)
 
 **Languages/Tech Stack:** <br/><br/>
 <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
