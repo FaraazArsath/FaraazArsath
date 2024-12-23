@@ -1,7 +1,3 @@
-<a href="https://www.linkedin.com/in/faraazarsath/">
-  <img align="left" alt="Faraaz LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-
 ---
 ## <h2 align="left"> Hey! I'm Faraaz Arsath and welcome to my GitHub profile! 👋🏻
 
