@@ -8,6 +8,7 @@ I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical E
 - 📊 Transitioned to Data Science in 2022  
 - 🌍 Active contributor to Omdena community projects and real-world AI challenges  
 - 👨‍💻 Lifelong learner, keeping updated with AI and Data Science trends through blogging and industry events
+- [My Portfolio](https://faraazarsath.github.io/) 
 
 ## Core Competencies
 
@@ -19,6 +20,7 @@ Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means
 
 ## Technologies & Tools
 
+<br/><br/>
 <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Scikit_Learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
 <img src="https://img.shields.io/badge/Numpy-4B0082?style=for-the-badge&logo=numpy&logoColor=white"> 
@@ -31,7 +33,3 @@ Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means
 <img src="https://img.shields.io/badge/Microsoft_Excel-4B0082?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-4B0082?style=for-the-badge&logo=powerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Snowflake-4B0082?style=for-the-badge&logo=snowflake&logoColor=white">
-
-## My Portfolio
-
-- 🌐 [Portfolio](https://faraazarsath.github.io/) 
