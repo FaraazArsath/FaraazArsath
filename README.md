@@ -1,4 +1,4 @@
-## <h2 align="left"> Hey! I'm Faraaz Arsath,passionate Data Scientist!👋🏻
+## <h2 align="left"> I'm Faraaz Arsath, passionate Data Scientist!👋🏻
 
 <li>⚕️Biomedical Engineering background with 8 years of professional experience</li>
 <li>📊Transition to Data Science in 2022</li>
