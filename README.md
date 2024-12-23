@@ -5,7 +5,10 @@
 <li>🙂Enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems</li>
 <li>👨‍💻Keep myself updated in AI by blogging, attending industry meetups, and participating in various events</li>
 <li>🌍Actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science</li>
-
+![GitHub repo size](https://img.shields.io/github/repo-size/USER/REPOSITORY?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)
 ---
 
 **CORE COMPETENCIES**<br/><br/>
