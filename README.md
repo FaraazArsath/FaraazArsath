@@ -1,6 +1,4 @@
-# Faraaz Arsath - Data Scientist 👨‍💻
-
-## About Me
+## Faraaz Arsath - Data Scientist 👨‍💻
 
 I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical Engineering. I transitioned into Data Science in 2022 and enjoy solving complex real-world problems using technology and data-driven insights.
 
