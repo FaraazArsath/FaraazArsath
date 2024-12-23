@@ -1,7 +1,4 @@
----
 ## <h2 align="left"> Hey! I'm Faraaz Arsath and welcome to my GitHub profile! 👋🏻
-
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
 📊I'm a passionate Data Scientist.
 
@@ -9,7 +6,7 @@
 
 👨‍💻I constantly keep myself updated in AI by blogging, attending industry meetups, and participating in various events. 
 
-🌍 I actively contribute to Omdena community projects, which allows me to collaborate with like-minded professionals and work on real-world challenges in the field of AI and data science. 🚀💡
+🌍I actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science. 🚀💡
 
 ---
 
@@ -19,7 +16,7 @@ Research | Quantitative Analysis | Data Visualization | Problem Solving | Projec
 **Machine Learning:** <br/><br/>
 Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
   
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** <br/><br/>
+**Languages/Tech Stack:** <br/><br/>
 <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Scikit_Learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
 <img src="https://img.shields.io/badge/Numpy-4B0082?style=for-the-badge&logo=numpy&logoColor=white"> 
@@ -32,6 +29,5 @@ Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means
 <img src="https://img.shields.io/badge/Microsoft_Excel-4B0082?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-4B0082?style=for-the-badge&logo=powerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Snowflake-4B0082?style=for-the-badge&logo=snowflake&logoColor=white">
-
 
 ---
