@@ -1,5 +1,7 @@
 # Faraaz Arsath - Data Scientist 👨‍💻
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=faraazarsath.faraazarsath&left_text=Visitors) ![GitHub Follows](https://img.shields.io/github/followers/faraazarsath?style=for-the-badge&logo=github&label=Follow)
+
 ## About Me
 
 I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical Engineering. I transitioned into Data Science in 2022 and enjoy solving complex real-world problems using technology and data-driven insights.
