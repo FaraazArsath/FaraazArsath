@@ -11,7 +11,7 @@ I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical E
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge)](https://faraazarsath.github.io/)
 
-## Technologies & Tools <br/><br/>
+**Languages/Tech Stack:** <br/><br/>
 <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Scikit_Learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
 <img src="https://img.shields.io/badge/Numpy-4B0082?style=for-the-badge&logo=numpy&logoColor=white"> 
@@ -24,3 +24,4 @@ I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical E
 <img src="https://img.shields.io/badge/Microsoft_Excel-4B0082?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-4B0082?style=for-the-badge&logo=powerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Snowflake-4B0082?style=for-the-badge&logo=snowflake&logoColor=white">
+
