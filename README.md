@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/faraazarsath/">
-  <img align="left" alt="Neil's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Faraaz LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
 
 ---
@@ -7,11 +7,11 @@
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-📊I'm a passionate Data Scientist and I am currently working as a Data Analyst in a Project Management Unit team for a government project.
+📊I'm a passionate Data Scientist.
 
-🙂I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems
+🙂I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems.
 
-👨‍💻 I constantly keep myself updated in AI by blogging, attending industry meetups, and participating in various events. 
+👨‍💻I constantly keep myself updated in AI by blogging, attending industry meetups, and participating in various events. 
 
 🌍 I actively contribute to Omdena community projects, which allows me to collaborate with like-minded professionals and work on real-world challenges in the field of AI and data science. This hands-on experience helps me stay at the forefront of emerging technologies and continuously enhance my skills. 🚀💡
 
