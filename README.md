@@ -1,31 +1,55 @@
-## <h2 align="left"> 👋🏻 Hi, I'm Faraaz Arsath, a Passionate Data Scientist!
+# Faraaz Arsath - Data Scientist 👨‍💻
 
-<li>⚕️Biomedical Engineering background with 8 years of professional experience.</li>
-<li>📊Transition to Data Science in 2022</li>
-<li>🙂Enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems</li>
-<li>👨‍💻Keep myself updated in AI by blogging, attending industry meetups, and participating in various events</li>
-<li>🌍Actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science</li>
+## About Me
 
----
+I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical Engineering. I transitioned into Data Science in 2022 and enjoy solving complex real-world problems using technology and data-driven insights.
 
-**CORE COMPETENCIES**<br/><br/>
-Research | Quantitative Analysis | Data Visualization | Problem Solving | Project Management | Strategy Formulation 
+- ⚕️ Biomedical Engineering background with 8+ years of professional experience  
+- 📊 Transitioned to Data Science in 2022  
+- 🌍 Active contributor to Omdena community projects and real-world AI challenges  
+- 👨‍💻 Lifelong learner, keeping updated with AI and Data Science trends through blogging and industry events
 
-**Machine Learning:** <br/><br/>
-Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
-  
-**Languages/Tech Stack:** <br/><br/>
-<img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Scikit_Learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
-<img src="https://img.shields.io/badge/Numpy-4B0082?style=for-the-badge&logo=numpy&logoColor=white"> 
-<img src="https://img.shields.io/badge/Pandas-4B0082?style=for-the-badge&logo=pandas&logoColor=white"> 
-<img src="https://img.shields.io/badge/Keras-4B0082?style=for-the-badge&logo=Keras&logoColor=white"> 
-<img src="https://img.shields.io/badge/TensorFlow-4B0082?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
-<img src="https://img.shields.io/badge/SQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tableau-4B0082?style=for-the-badge&logo=tableau&logoColor=white"> 
-<img src="https://img.shields.io/badge/Microsoft_Excel-4B0082?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-4B0082?style=for-the-badge&logo=powerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Snowflake-4B0082?style=for-the-badge&logo=snowflake&logoColor=white">
+## Core Competencies
 
----
+- Research  
+- Quantitative Analysis  
+- Data Visualization  
+- Problem Solving  
+- Project Management  
+- Strategy Formulation  
+
+## Machine Learning & Data Science
+
+- Statistics  
+- Regression Modeling  
+- Random Forest  
+- XGBoost  
+- kNN Classifier  
+- K-means Clustering  
+- Feature Extraction (PCA)  
+- Convolutional Neural Networks (CNN)
+
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)  
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Numpy](https://img.shields.io/badge/Numpy-4B0082?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-4B0082?style=for-the-badge&logo=pandas&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-4B0082?style=for-the-badge&logo=keras&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4B0082?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-4B0082?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-4B0082?style=for-the-badge&logo=powerbi&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-4B0082?style=for-the-badge&logo=snowflake&logoColor=white)
+
+## Connect with Me
+
+- 🌐 [Portfolio](https://faraazarsath.github.io/)
+- 🖋️ [Medium](https://medium.com/@faraazarsath)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/faraazarsath)  
+- 📬 [Email](mailto:faraaz.arsath@example.com)
+
+## Fun Fact
+
+💡 "I thrive at the intersection of technology and impact, transforming data into meaningful insights that drive change!"
