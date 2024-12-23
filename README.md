@@ -7,9 +7,7 @@
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-I'm a passionate Data Scientist and experienced business manager who thrives on driving innovation and delivering impactful solutions through technology. I specialize in bridging the gap between business needs and technical execution, ensuring seamless integration of processes and systems. My focus is on creating user-centric solutions that enhance productivity, foster collaboration, and streamline workflows.
-
-Currently working as a Data Analyst in a Project Management Unit team for a government project.
+📊I'm a passionate Data Scientist and I am currently working as a Data Analyst in a Project Management Unit team for a government project.
 
 🙂I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems
 
