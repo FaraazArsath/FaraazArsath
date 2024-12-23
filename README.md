@@ -1,6 +1,8 @@
-## <h2 align="left"> Hey! I'm Faraaz Arsath and welcome to my GitHub profile! 👋🏻
+## <h2 align="left"> Hey! I'm Faraaz Arsath,passionate Data Scientist!👋🏻
 
-📊I'm a passionate Data Scientist.
+<li>⚕️Biomedical Engineering background with 8 years of professional experience.</li>
+
+📊
 
 🙂I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems.
 
