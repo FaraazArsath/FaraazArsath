@@ -1,5 +1,5 @@
 ## Faraaz Arsath - Data Scientist 👨‍💻
-👋🏻 Hi!, Welcome to my Github Profile.
+👋🏻 Hey, Welcome to my Github Profile.
 - ⚕️ Biomedical Engineering background with 8+ years of professional experience  
 - 📊 Transitioned to Data Science in 2022  
 - 🌍 Active contributor to Omdena community projects and real-world AI challenges  
