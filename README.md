@@ -6,6 +6,10 @@
 <li>👨‍💻Keep myself updated in AI by blogging, attending industry meetups, and participating in various events</li>
 <li>🌍Actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science</li>
 
+<a href="https://faraazarsath.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082" alt="Portfolio Badge">
+</a>
+
 ---
 
 **CORE COMPETENCIES**<br/><br/>
