@@ -13,7 +13,7 @@
 
 👨‍💻I constantly keep myself updated in AI by blogging, attending industry meetups, and participating in various events. 
 
-🌍 I actively contribute to Omdena community projects, which allows me to collaborate with like-minded professionals and work on real-world challenges in the field of AI and data science. This hands-on experience helps me stay at the forefront of emerging technologies and continuously enhance my skills. 🚀💡
+🌍 I actively contribute to Omdena community projects, which allows me to collaborate with like-minded professionals and work on real-world challenges in the field of AI and data science. 🚀💡
 
 ---
 
