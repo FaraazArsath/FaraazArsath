@@ -11,16 +11,7 @@ I'm Faraaz Arsath, a passionate Data Scientist with a background in Biomedical E
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge)](https://faraazarsath.github.io/)
 
-## Core Competencies
-
-Research | Quantitative Analysis | Data Visualization | Problem Solving | Project Management | Strategy Formulation
-
-## Machine Learning & Data Science
-
-Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
-
-## Technologies & Tools
-<br/><br/>
+## Technologies & Tools <br/><br/>
 <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Scikit_Learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
 <img src="https://img.shields.io/badge/Numpy-4B0082?style=for-the-badge&logo=numpy&logoColor=white"> 
