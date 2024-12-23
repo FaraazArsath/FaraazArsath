@@ -1,14 +1,10 @@
 ## <h2 align="left"> Hey! I'm Faraaz Arsath,passionate Data Scientist!👋🏻
 
-<li>⚕️Biomedical Engineering background with 8 years of professional experience.</li>
-
-📊
-
-🙂I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems.
-
-👨‍💻I constantly keep myself updated in AI by blogging, attending industry meetups, and participating in various events. 
-
-🌍I actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science. 🚀💡
+<li>⚕️Biomedical Engineering background with 8 years of professional experience</li>
+<li>📊Transition to Data Science in 2022</li>
+<li>🙂I enjoy transforming complex challenges into actionable strategies by leveraging technology to solve real-world problems</li>
+<li>👨‍💻I constantly keep myself updated in AI by blogging, attending industry meetups, and participating in various events.</li>
+<li>🌍I actively contribute to Omdena community projects and work on real-world challenges in the field of AI and data science.🚀💡</li>
 
 ---
 
